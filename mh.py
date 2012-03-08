@@ -10,7 +10,7 @@
 
 # для получения рандомных значений используется API сервиса https://www.random.org/clients/http/
 # можно скачать библиотеку для питона http://pypi.python.org/pypi/randomdotorg/
-# сайт библиотеки http://code.google.com/p/randomdotorg/
+#сайт библиотеки http://code.google.com/p/randomdotorg/
 #import randomdotorg
 import random
 import sys
